@@ -1,0 +1,16 @@
+{
+  "name": "serverless-telegram-bot",
+  "version": "0.0.1",
+  "description": "Example of a Telegram bot made on top of Serverless ",
+  "author": "Egor Kislitsyn <egor@kislitsyn.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/minibikini/serverless-telegram-bot"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.19.2",
+    "serverless-helpers-js": "~0.0.3"
+  },
+}
