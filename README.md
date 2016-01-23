@@ -18,7 +18,7 @@ Just send a message to [@serverless_example_bot](https://telegram.me/serverless_
 
 ```
 serverless env set -k TELEGRAM_TOKEN -v XXXX
-serverless set -k WEBHOOK_URL -v "https://ENDPOINT/bot/process"
+serverless env set -k WEBHOOK_URL -v "https://ENDPOINT/bot/process"
 ```
 
 2. Run `serverless dash deploy` to deploy your bot's functions
