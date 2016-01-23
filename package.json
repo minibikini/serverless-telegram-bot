@@ -12,5 +12,5 @@
   "dependencies": {
     "node-telegram-bot-api": "^0.19.2",
     "serverless-helpers-js": "~0.0.3"
-  },
+  }
 }
